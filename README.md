@@ -2,7 +2,9 @@
 - 👀 I’m interested in ... AI
 - 🌱 I’m currently learning ... AI, CSS, JavaScript, Pyhton etc
 - 📫 How to reach me ... Maaf ya saya selalu salah
+- 
 I'm fullstack developer (insyaallah)
+
   Designer dadakan
   
 
